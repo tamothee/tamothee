@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently in Singapore Polytechnic studying Computer Engineering
 
-- 👨‍💻 Check out my website where I update the projects that I have done! 
+- 👨‍💻 Check out my website where I update the projects that I have done!  https://project-diary.vercel.app/
 
 - 📫 How to reach me **timo9132@gmail.com**
 
