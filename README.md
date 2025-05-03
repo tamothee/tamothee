@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm timothy</h1>
 <h3 align="center">A student learning everything about programming!</h3>
 
-- 🌱 Singapore Polytechnic studying Computer Engineering graduate and enrolling into Singapore Management University Software Engineering! 
+- 🌱 Singapore Polytechnic Computer Engineering graduate and enrolling into Singapore Management University Software Engineering! 
 
 - 👨‍💻 Check out my website where I update the projects that I have done!  https://project-diary.vercel.app/
 
