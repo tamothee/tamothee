@@ -3,7 +3,7 @@
 
 - 🌱 Singapore Polytechnic Computer Engineering graduate and enrolling into Singapore Management University Software Engineering! 
 
-- 👨‍💻 Check out my website where I update the projects that I have done!  https://project-diary.vercel.app/
+- 👨‍💻 Check out my website where I update the projects that I have done!  https://timothy-leong.com/
 
 - 📫 How to reach me **timo9132@gmail.com**
 
